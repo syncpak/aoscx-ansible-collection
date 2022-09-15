@@ -1,14 +1,21 @@
-
 namespace: "arubanetworks"
 
 name: "aoscx"
 
-version: "1.0.1"
+version: "4.1.0"
 
 authors:
   - "Madhusudan Pranav Venugopal"
   - "Tiffany Chiapuzio-Wong"
-  - "Yang Liu "
+  - "Yang Liu"
+  - "Derek Wang"
+  - "Melvin Gutierrez"
+  - "Rodrigo Jose Hernandez"
+  - "Daniel Alvarado Bonilla"
+  - "David Cordero"
+
+dependencies:
+    "ansible.netcommon": "*"
 
 description:
 
